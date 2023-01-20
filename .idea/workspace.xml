@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="447d27cf-4434-48a7-8001-b9e95603557c" name="Changes" comment="ver YandexTest and Loop">
+    <list default="true" id="447d27cf-4434-48a7-8001-b9e95603557c" name="Changes" comment="ver Loop">
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="HelloWorld" />
@@ -79,6 +86,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Array" />
       <item itemvalue="Application.Loop" />
       <item itemvalue="Application.NameStrnig" />
       <item itemvalue="Application.Weather" />
@@ -86,6 +94,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.NameStrnig" />
         <item itemvalue="Application.Weather" />
@@ -107,7 +116,8 @@
       <workItem from="1673791720825" duration="20000" />
       <workItem from="1673896998067" duration="11443000" />
       <workItem from="1674158856754" duration="5996000" />
-      <workItem from="1674166504613" duration="1051000" />
+      <workItem from="1674166504613" duration="1380000" />
+      <workItem from="1674224637611" duration="4833000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.0">
       <created>1673629401646</created>
@@ -172,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674166452233</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ver Loop">
+      <created>1674167891361</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674167891361</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +205,7 @@
     <MESSAGE value="ver String, Weather" />
     <MESSAGE value="ver 1.1 String" />
     <MESSAGE value="ver YandexTest and Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver YandexTest and Loop" />
+    <MESSAGE value="ver Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver Loop" />
   </component>
 </project>
